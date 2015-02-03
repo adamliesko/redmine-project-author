@@ -1,0 +1,3 @@
+= project_author
+
+Redmine plugin which enables you to assign project author.
