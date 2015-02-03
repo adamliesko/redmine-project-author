@@ -1,3 +1,13 @@
 = project_author
 
 Redmine plugin which enables you to assign project author.
+
+==Installation
+
+After cloning whole git repository or copying the content into
+  plugins/project_author
+you can install project_author plugin by simply running plugin's migrations.
+
+  rake redmine:plugins:migrate RAILS_ENV=production
+
+
